@@ -27,7 +27,7 @@
 - **Auth**: JWT, bcrypt
 
 ## 🏗️ Project Structure
-
+```
 myokr/
 ├── backend/
 │   ├── config/
@@ -48,7 +48,7 @@ myokr/
 ├── .env
 ├── README.md
 └── package.json 
-
+```
 # How to Run:
 
 ### Backend
